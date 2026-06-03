@@ -1,5 +1,5 @@
 # Accenture Stock History
-This project involves analysing Accenture’s stock history data [Accenture-Share Price center](https://investor.accenture.com/stock-information/share-price-cente).
+This project involves analysing Accenture’s stock history data [Accenture-Share Price center](https://investor.accenture.com/stock-information/share-price-center).
 ## Step by Step
 - **Collect Data** -- Find the data/spreadsheet to be analysed
     Data link [Accenture_stock_history](https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/Accenture_stock_history%20(raw).xlsx).
