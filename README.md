@@ -1,19 +1,21 @@
 # Accenture Stock History
-Pda kesempatan kali ini yaitu project analisa data accenture stock history.
+This time, we’re working on a project to analyse Accenture’s stock history data.
 
 ## Step by Step
-- **Data** -- Cari data/sheet yang akan dilakukan analisa
-	link data [Accenture_stock_history](https://github.com/anomalyco/opencode).
-- **Cleaning data** -- Memperbaiki dan menghapus bagian data yang tidak diperlukan misal kita hanya butuh data 2 tahun terakhir, hapus tahun" sebelumnya.
-- **Forecasting data** -- membuat prediksi nilai data selanjutnya untuk open price,  dimasa depan menggunakan formula.
+- **Data** -- Find the data/spreadsheet to be analysed
+    Data link [Accenture_stock_history](https://github.com/anomalyco/opencode).
+- **Data cleaning** -- Correct and remove unnecessary data; for example, if we only need data from the last two years, delete the previous years.
+- **Data forecasting** -- Create a forecast for future open prices using a formula.
 ```bash
 =FORECAST(x, known_ys, known_xs)
 ```
-Forecasting formula for `open/high/low/close/volume` prices values.
+Forecasting formula for `open/high/low/close/volume` price values.
 | `x` | The date of the value to be searched (lock) |
-| `known_ys` | All value from the previous `open/high/low/close/volume` values |
+| `known_ys` | All values from the previous `open/high/low/close/volume` values |
 | `known_xs` | All dates from the previous values (lock) |
 
-- **Exploratory Data** -- Membuat charts mendefinisikan hasil dari forecasting
-Membuat trend line untuk menunjukkan arah atau tren umum dari pergerakan data tersebut. Garis ini berfungsi untuk memvisualisasikan apakah data sedang naik, turun, atau mendatar.
-Melihat keakuratan menggunakan nilai R kuadrat dari trendline.
+- **Exploratory Data** -- Creating charts to visualise the results of the forecasting
+Drawing a trend line to indicate the general direction or trend of the data movement. This line serves to visualise whether the data is rising, falling, or flat.
+Assessing accuracy using the R-squared value of the trend line.
+
+
