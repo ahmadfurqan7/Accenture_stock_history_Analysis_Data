@@ -21,5 +21,3 @@ Forecasting formula for `open/high/low/close/volume` price values.
 Drawing a trend line to indicate the general direction or trend of the data movement. This line serves to visualise whether the data is rising, falling, or flat.
 Assessing accuracy using the R-squared value of the trend line.
 
-
-Translated with DeepL.com (free version)
