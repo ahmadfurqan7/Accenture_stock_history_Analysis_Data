@@ -20,4 +20,4 @@ Forecasting formula for `open/high/low/close/volume` price values.
 - **Exploratory Data** -- Creating charts to visualise the results of the forecasting
 Drawing a trend line to indicate the general direction or trend of the data movement. This line serves to visualise whether the data is rising, falling, or flat.
 Assessing accuracy using the R-squared value of the trend line.
-
+!(https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/Accenture_stock_history.jpg)
