@@ -33,6 +33,5 @@ Assessing accuracy using the R-squared value of the trend line.
  | |  | | ' / |  | |  \| |
  | |  | |  <| |  | | . ` |
  | |__| | . \ |__| | |\  |
-  \____/|_|\_\____/|_| \_|
-                               
+  \____/|_|\_\____/|_| \_|                
 ```
