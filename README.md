@@ -1,8 +1,7 @@
 # Accenture Stock History
-This time, we’re working on a project to analyse Accenture’s stock history data.
-
+This project involves analysing Accenture’s stock history data.
 ## Step by Step
-- **Data** -- Find the data/spreadsheet to be analysed
+- **Collect Data** -- Find the data/spreadsheet to be analysed
     Data link [Accenture_stock_history](https://github.com/anomalyco/opencode).
 - **Data cleaning** -- Correct and remove unnecessary data; for example, if we only need data from the last two years, delete the previous years.
 - **Data forecasting** -- Create a forecast for future open prices using a formula.
@@ -19,3 +18,4 @@ Drawing a trend line to indicate the general direction or trend of the data move
 Assessing accuracy using the R-squared value of the trend line.
 
 
+Translated with DeepL.com (free version)
