@@ -10,7 +10,7 @@ This project involves analysing Accenture’s stock history data [Accenture-Shar
 ```
 Forecasting formula for `open/high/low/close/volume` price values.
 
-|--------------------|-------------------------------|
+|-----|---------------------------------------------|
 | `x` | The date of the value to be searched (lock) |
 | `known_ys` | All values from the previous `open/high/low/close/volume` values |
 | `known_xs` | All dates from the previous values (lock) |
