@@ -24,7 +24,7 @@ Assessing accuracy using the R-squared value of the trend line.
 
 ![Forecasting Chart](https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/Accenture_stock_history.jpg)
 
-## LICENSE
+## License
 
 [LICENSE](LICENSE)
 ```
