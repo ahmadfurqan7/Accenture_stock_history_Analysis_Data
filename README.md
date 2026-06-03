@@ -2,7 +2,7 @@
 This project involves analysing Accenture’s stock history data [Accenture-Share Price center](https://investor.accenture.com/stock-information/share-price-cente).
 ## Step by Step
 - **Collect Data** -- Find the data/spreadsheet to be analysed
-    Data link [Accenture_stock_history](https://investor.accenture.com/stock-information/share-price-cente).
+    Data link [Accenture_stock_history](https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/Accenture_stock_history%20(raw).xlsx).
 - **Data cleaning** -- Correct and remove unnecessary data; for example, if we only need data from the last two years, delete the previous years.
 - **Data forecasting** -- Create a forecast for future open prices using a formula.
 ```bash
