@@ -23,3 +23,14 @@ Drawing a trend line to indicate the general direction or trend of the data move
 Assessing accuracy using the R-squared value of the trend line.
 
 ![Forecasting Chart](https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/Accenture_stock_history.jpg)
+
+##LICENSE
+[LICENSE](LICENSE)
+```
+ ____ ___ ____  __.________    _______   
+|    |   \    |/ _|\_____  \   \      \  
+|    |   /      <   /   |   \  /   |   \ 
+|    |  /|    |  \ /    |    \/    |    \
+|______/ |____|__ \\_______  /\____|__  /
+                 \/        \/         \/ 
+```
