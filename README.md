@@ -29,11 +29,11 @@ Assessing accuracy using the R-squared value of the trend line.
 Creating a bar chart showing the correlation between annual trading volume using Power BI software
 ![Forecasting Chart](https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/volume%20by%20year.jpg)
 
-Creating a dashboard chart showing the correlation between the `open`, `high`, `low`, and `close` prices for each year using Power BI software
+Creating a dashboard chart showing the correlation between the `open`, `high`, `low`, and `close` prices for each year using Power BI software.
 As well as calculating statistical values such as the average.
 ![Forecasting Chart](https://github.com/ahmadfurqan7/Accenture_stock_history_Analysis_Data/blob/main/dashboard%20price.jpg)
 
-From the data visualizations created, we can generate a report showing the highest and lowest values for annual volume
+From the data visualizations created, we can generate a report showing the highest and lowest values for annual volume.
 As well as identifying the highest and lowest prices for `open`, `high`, `low`, and `close` each year.
 
 
