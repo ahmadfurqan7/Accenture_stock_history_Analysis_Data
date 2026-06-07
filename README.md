@@ -39,7 +39,7 @@ As well as identifying the highest and lowest prices for `open`, `high`, `low`, 
 
 ## License
 
-[LICENSE](LICENSE)
+This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
 ```
   _    _ _  ______  _   _ 
  | |  | | |/ / __ \| \ | |
